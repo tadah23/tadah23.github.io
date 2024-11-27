@@ -1,0 +1,193 @@
+{
+  "greetings": "Hallo Welt, Grüße de",
+
+  "spinner" : "Laden ...",
+  "authentication": {
+    "home": {},
+    "login": {
+      "signIn": "Anmelden",
+      "emailAddress": "E-Mail-Adresse",
+      "password": "Passwort",
+      "rememberMe": "Erinnere dich an mich",
+      "forgotPassword": "Passwort vergessen?",
+      "SignIn": "Anmelden",
+      "SignUp": "Registrieren",
+      "noAccountYet": "Sie haben noch kein Konto?"
+    },
+    "registration": {
+      "signUpTitle": "Anmelden" ,
+      "firstName": {
+        "label": "Vorname" ,
+        "placeholder": "Vorname" ,
+        "requiredMessage": "Vorname ist erforderlich!"
+      } ,
+      "lastName": {
+        "label": "Nachname" ,
+        "placeholder": "Nachname",
+        "requiredMessage": "Der Nachname ist erforderlich!"
+      } ,
+      "email": {
+        "label": "Email" ,
+        "placeholder": "Email",
+        "requiredMessage": "E-Mail ist erforderlich!",
+        "invlideMessage": "Ungültige E-Mail"
+      } ,
+      "password": {
+        "label": "Passwort" ,
+        "placeholder": "*******"
+      } ,
+      "country": {
+        "label": "Land" ,
+        "defaultOption": "Land auswählen"
+      } ,
+      "phone": {
+        "label": "Telefon" ,
+        "placeholder": "Telefon",
+        "requiredMessage": "Telefonnummer ist erforderlich!"
+      } ,
+      "paymentMethodTitle": "Wählen Sie die Zahlungsmethode" ,
+      "paymentOptions": {
+        "noPayment": "Keine Zahlung" ,
+        "paypal": "PayPal"
+      } ,
+      "termsAndConditions": {
+        "text": "Ich stimme diesen zu",
+        "link": "Allgemeinen Geschäftsbedingungen"
+      } ,
+      "submitButtonText": "Senden" ,
+      "loginPrompt": {
+        "text": "Haben Sie bereits ein Konto?" ,
+        "linkText": "Einloggen" ,
+        "link": "/login"
+      },
+      "confirmationModalHeading": "Überprüfen Sie Ihre Post" ,
+      "confirmationModalBody": "Vielen Dank für Ihre Anmeldung!\n        Um die Erstellung Ihres Kontos zu bestätigen, prüfen Sie bitte Ihre E-Mail."
+    }
+
+  },
+
+
+
+  "satisfiedWithFinanzenNetZero": "Zufrieden mit finanzen.net Zero?",
+  "description": "Haben Sie Freunde oder Bekannte, die noch Ordergebühren zahlen oder gar keine Wertpapiere handeln? Empfehlen Sie ein Depot bei Finanz.net Zero und wir belohnen Sie mit 50 Euro und einer kostenlosen Aktie für jeden geworbenen Kunden. Die geworbene Person erhält eine kostenlose Aktie, wenn sie ihr Portfolio aktiv nutzt.",
+  "whatToDo": "Was müssen Sie dafür tun?",
+  "stepOneTitle": "Einladungslink",
+  "stepOneDescription": "Personalisiert, um an viele Freunde und Bekannte zu senden",
+  "stepTwoTitle": "Registrieren Sie sich über diesen Link",
+  "stepTwoDescription": "Ihr geworbener Kunde stimmt der Werbung zu und registriert sich über Ihren Link auf unserer Webseite",
+  "stepThreeTitle": "Bonus erhalten",
+  "stepThreeDescription": "Wir prüfen monatlich, ob die Bedingungen erfüllt sind und überweisen Ihnen und dem geworbenen Kunden den entsprechenden Bonusbetrag",
+  "getInvitationLinkButton": "EINLADUNGSLINK ERHALTEN",
+  "readTermsAndConditions": "Lesen Sie die genauen Geschäftsbedingungen",
+  "here": "HIER",
+
+
+  "generalSettings": "Allgemeine Einstellungen",
+  "changePassword": "Passwort ändern",
+  "changeEmail": "E-Mail ändern",
+  "firstName": "Vorname",
+  "firstNamePlaceholder": "Jane",
+  "lastName": "Nachname",
+  "lastNamePlaceholder": "Doe",
+  "email": "E-Mail",
+  "emailPlaceholder": "john@gmail.com",
+  "country": "Land",
+  "countryOptions": {
+    "newMexico": "Neu-Mexiko",
+    "missouri": "Missouri",
+    "texas": "Texas"
+  },
+  "phone": "Telefon",
+  "phonePlaceholder": "+237",
+  "submitButton": "Einreichen",
+
+
+
+  "orderTitle": "Bestellung",
+  "dateLabel": "Datum:",
+  "referenceLabel": "Referenz:",
+  "print": "Drucken",
+  "licenceNameLabel": "Lizenzname:",
+  "subtotal": "Zwischensumme",
+  "shipping": "Versand",
+  "total": "GESAMT",
+  "paymentTitle": "Zahlung",
+  "paymentMethod": "Zahlungsmethode",
+  "paymentTotalLabel": "Gesamt:",
+  "paidStatus": "BEZAHLT",
+  "billingAddress": "Rechnungsadresse",
+  "phoneLabel": "Telefon",
+  "shippingInfoTitle": "Versandinformationen",
+  "shippingAddressTitle": "Adresse",
+  "addressDetails": "Adressdetails",
+  "phoneAbbreviation": "Tel",
+
+  "navigation": {
+    "home": "Startseite",
+    "chart": "Diagramm",
+    "watchlist": "Watchlist",
+    "recommend": "Empfehlen",
+    "help": "Hilfe",
+    "academy": "Akademie",
+    "contact": "Kontakt",
+    "upcomingCommunity": "Bevorstehende: Gemeinschaft"
+  },
+  "search": {
+    "label": "Suche",
+    "placeholder": "Suchen",
+    "noResultsFound": "Keine Ergebnisse gefunden."
+  },
+  "profileDropdown": {
+    "profile": "Profil",
+    "billing": "Abrechnung",
+    "logout": "Abmelden",
+    "terms and conditions": "Allgemeine Geschäftsbedingungen"
+
+  },
+
+
+  
+    "welcomeTitle": "Watchlist-Test",
+    "welcomeMessage": "Willkommen beim KI-Börsenkompass! Schauen Sie sich das Einführungstutorial an.",
+    "doNotShowAgain": "nicht mehr anzeigen.",
+    "watchlistTitle": "Watchlist",
+    "topTradesPurchaseTitle": "Top Trades Kauf",
+    "symbol": "Symbol",
+    "currentPrice": "Aktueller Preis",
+    "score": "Punktzahl",
+    "company": {
+        "apple": "Apple",
+        "cisco": "Cisco"
+    },
+    "stockSymbol": {
+        "apple": "AAPL",
+        "cisco": "CSCO"
+    },
+    "stockPrice": {
+        "apple": "155,18 $",
+        "ciscoPercentage": "45,14 %"
+    },
+    "close": "Schließen",
+    "alertCloseAriaLabel": "Schließen",
+    "dismiss": "Verwerfen",
+
+    
+      "courseInformationTitle": "Cursusinformatie",
+      "courseTime": "Cursustijd",
+      "time": "09:27:17",
+      "companyProfileTitle": "Bedrijfsprofiel",
+      "companyDescription": "{{stockList.designation}} ({{stockList.symbol}}) is een wereldwijde technologieleider in de sector {{stockList.sector}}. Met ongeveer {{stockList.employees}} werknemers staat {{stockList.designation}} bekend om zijn innovatie en invloed in de technologie-industrie. Op de laatste winstdatum van {{stockList.earnings_date}} blijft {{stockList.designation}} sterke financiële prestaties tonen, met een winst per aandeel (EPS) van ${{stockList.eps}} en een marktkapitalisatie van ongeveer ${{stockList.market_cap | number: '1.0-2'}} miljard. Het toekomstige dividend van het bedrijf is ${{stockList.forwardDividend}}, met een ex-dividend datum op {{stockList.exDividendDate}}. Met een prijs-winstverhouding (P/E) van {{stockList.pe_ratio}} en een bètawaarde van {{stockList.beta}}, blijft {{stockList.designation}} een prominente speler op de technologiemarkt, met een doelprijs van 1 jaar van ${{stockList['1yTargetEast'] | number: '1.0-2'}}.",
+      "basicDataTitle": "Basisgegevens",
+      "wkn": "WKN"
+    ,
+    
+
+    "termsandconditions": "Algemene voorwaarden",
+    "accetpterms": "Accepteer Voorwaarden",
+    "fermer": "Sluiten",
+    "acceptaandclose": "Accepteren en sluiten",
+    "settings": "Einstellung",
+
+    "currentRecommendation": "Aktuelle Empfehlung",
+  "buy": "Kauf"
+}

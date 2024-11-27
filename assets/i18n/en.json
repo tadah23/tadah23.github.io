@@ -1,0 +1,182 @@
+{
+  "greetings": "hello word, greetings en" ,
+  "spinner": "Loading ..." ,
+  "authentication": {
+    "home": { } ,
+    "login": {
+      "signIn": "Sign In" ,
+      "emailAddress": "Email address" ,
+      "password": "Password" ,
+      "rememberMe": "Remember Me" ,
+      "forgotPassword": "Forgot password ?" ,
+      "SignIn": "Sign In" ,
+      "SignUp": "Sign Up" ,
+      "noAccountYet": "Don't yet have an account ?"
+    } ,
+    "registration": {
+      "signUpTitle": "Sign Up" ,
+      "firstName": {
+        "label": "First name" ,
+        "placeholder": "First name" ,
+        "requiredMessage": "First name is required!"
+      } ,
+      "lastName": {
+        "label": "Last name" ,
+        "placeholder": "Last name",
+        "requiredMessage": "Last name is required!"
+      } ,
+      "email": {
+        "label": "Email" ,
+        "placeholder": "Email",
+        "requiredMessage": "Email is required!",
+        "invlideMessage": "Invalid EMail"
+      } ,
+      "password": {
+        "label": "Password" ,
+        "placeholder": "*******"
+      } ,
+      "country": {
+        "label": "Country" ,
+        "defaultOption": "Select Country"
+      } ,
+      "phone": {
+        "label": "Phone" ,
+        "placeholder": "Phone",
+        "requiredMessage": "Phone number is required!"
+      } ,
+      "paymentMethodTitle": "Choose Payment method" ,
+      "paymentOptions": {
+        "noPayment": "No payment" ,
+        "paypal": "PayPal"
+      } ,
+      "termsAndConditions": {
+        "text": "I agree to these",
+        "link": "Terms and Conditions"
+      } ,
+      "submitButtonText": "Submit" ,
+      "loginPrompt": {
+        "text": "Already have an account?" ,
+        "linkText": "Login" ,
+        "link": "/login"
+      },
+      "confirmationModalHeading": "Verify your mail" ,
+      "confirmationModalBody": "Thank you for your registration!\n        To confirm your account creation please check your email."
+    }
+  } ,
+  "satisfiedWithFinanzenNetZero": "Satisfied with finanzen.net zero?" ,
+  "description": "Do you have friends or acquaintances who still pay order fees or who do not trade securities at all? Recommend a depot at Finanz.net zero and we will reward you with 50 euros and a free share for every customer you refer. The referred person receives a free share if they actively use their portfolio." ,
+  "whatToDo": "What do you need to do for it?" ,
+  "stepOneTitle": "Invitation Link" ,
+  "stepOneDescription": "Personalized to send to many friends and acquaintances" ,
+  "stepTwoTitle": "Register via this link" ,
+  "stepTwoDescription": "Your referred client agrees with the advertisement and registers via your link on our website" ,
+  "stepThreeTitle": "Receive Bonus" ,
+  "stepThreeDescription": "We check monthly if the conditions are met and transfer the corresponding amount bonus to you and the referred client" ,
+  "getInvitationLinkButton": "GET AN INVITATION LINK" ,
+  "readTermsAndConditions": "Read the exact terms and conditions" ,
+  "here": "HERE" ,
+  "generalSettings": "General Settings" ,
+  "changePassword": "Change Password" ,
+  "changeEmail": "Change Email" ,
+  "firstName": "First Name" ,
+  "firstNamePlaceholder": "Jane" ,
+  "lastName": "Last Name" ,
+  "lastNamePlaceholder": "Doe" ,
+  "email": "Email" ,
+  "emailPlaceholder": "john@gmail.com" ,
+  "country": "Country" ,
+  "countryOptions": {
+    "newMexico": "New Mexico" ,
+    "missouri": "Missouri" ,
+    "texas": "Texas"
+  } ,
+  "phone": "Phone" ,
+  "phonePlaceholder": "+237" ,
+  "submitButton": "Submit" ,
+  "orderTitle": "Order" ,
+  "dateLabel": "Date:" ,
+  "referenceLabel": "Ref:" ,
+  "print": "Print" ,
+  "licenceNameLabel": "Licence Name:" ,
+  "subtotal": "Subtotal" ,
+  "shipping": "Shipping" ,
+  "total": "TOTAL" ,
+  "paymentTitle": "Payment" ,
+  "paymentMethod": "Payment Method" ,
+  "paymentTotalLabel": "Total:" ,
+  "paidStatus": "PAID" ,
+  "billingAddress": "Billing address" ,
+  "phoneLabel": "Phone" ,
+  "shippingInfoTitle": "Shipping Information" ,
+  "shippingAddressTitle": "Address" ,
+  "addressDetails": "Address Details" ,
+  "phoneAbbreviation": "Phone" ,
+  "navigation": {
+    "home": "Home" ,
+    "chart": "Chart" ,
+    "watchlist": "Watchlist" ,
+    "recommend": "Recommend" ,
+    "help": "Help" ,
+    "academy": "Academy" ,
+    "contact": "Contact" ,
+    "upcomingCommunity": "Upcoming: Community"
+  } ,
+  "search": {
+    "label": "Search" ,
+    "placeholder": "Search" ,
+    "noResultsFound": "No results found."
+  } ,
+  "profileDropdown": {
+    "profile": "Profile" ,
+    "billing": "Billing" ,
+    "logout": "Logout",
+     "terms and conditions": "Terms and Conditions"
+  },
+
+  "welcomeTitle": "Watchlist Test",
+    "welcomeMessage": "Welcome to the AI Stock Market Compass! Check out the introductory tutorial.",
+    "doNotShowAgain": "do not show again.",
+    "watchlistTitle": "Watchlist",
+    "topTradesPurchaseTitle": "Top Trades Purchase",
+    "symbol": "Symbol",
+    "currentPrice": "Current Price",
+    "score": "Score",
+    "company": {
+        "apple": "Apple",
+        "cisco": "Cisco"
+    },
+    "stockSymbol": {
+        "apple": "AAPL",
+        "cisco": "CSCO"
+    },
+    "stockPrice": {
+        "apple": "155.18 $",
+        "ciscoPercentage": "45.14 %"
+    },
+    "close": "Close",
+    "alertCloseAriaLabel": "Close",
+    "dismiss": "Dismiss"
+    ,
+
+    
+      "courseInformationTitle": "Course Information",
+      "courseTime": "Course Time",
+      "time": "09:27:17",
+      "companyProfileTitle": "Company Profile",
+      "companyDescription": "{{stockList.designation}} ({{stockList.symbol}}) is a global technology leader in the {{stockList.sector}} sector. With approximately {{stockList.employees}} employees, {{stockList.designation}} is known for its innovation and influence in the technology industry. As of the latest earnings date on {{stockList.earnings_date}}, {{stockList.designation}} continues to demonstrate strong financial performance, with an earnings per share (EPS) of ${{stockList.eps}} and a market capitalization of approximately ${{stockList.market_cap | number: '1.0-2'}} billion. The company's forward dividend is ${{stockList.forwardDividend}}, with an ex-dividend date set for {{stockList.exDividendDate}}. With a price-to-earnings (P/E) ratio of {{stockList.pe_ratio}} and a beta value of {{stockList.beta}}, {{stockList.designation}} remains a prominent player in the technology market, with a 1-year target price of ${{stockList['1yTargetEast'] | number: '1.0-2'}}.",
+      "basicDataTitle": "Basic Data",
+      "wkn": "WKN"
+    
+    ,
+      "termsandconditions": "Terms and Conditions",
+      "accetpterms": "Accept Terms",
+      "fermer": "Close",
+     
+      "acceptaandclose": "Accept and close",
+      "settings": "Settings"
+    ,
+    "currentRecommendation": "Current recommendation",
+    "buy":"Buy"
+
+
+}

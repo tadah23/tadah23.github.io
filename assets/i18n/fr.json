@@ -1,0 +1,194 @@
+{
+  "greetings": "bonjour le monde, salutations fr",
+  "spinner" : "Chargement en cours ...",
+  "authentication": {
+    "home": {
+      "popopop" : ";l;l;l;l;"
+    },
+    "login": {
+      "signIn": "Se connecter",
+      "emailAddress": "Adresse e-mail",
+      "password": "Mot de passe",
+      "rememberMe": "Se souvenir de moi",
+      "forgotPassword": "Mot de passe oublié ?",
+      "SignIn": "Se connecter",
+      "SignUp": "S'inscrire",
+      "noAccountYet": "Vous n'avez pas encore de compte ?"
+    },
+    "registration": {
+      "signUpTitle": "S’enregistrer" ,
+      "firstName": {
+        "label": "Prénom" ,
+        "placeholder": "Prénom" ,
+        "requiredMessage": "Le prénom est requis!"
+      } ,
+      "lastName": {
+        "label": "Nom" ,
+        "placeholder": "Nom",
+        "requiredMessage": "Le nom est requis!"
+      } ,
+      "email": {
+        "label": "Email" ,
+        "placeholder": "Email",
+        "requiredMessage": "L'email est requis!",
+        "invlideMessage": "Email invalide"
+      } ,
+      "password": {
+        "label": "Mot de passe" ,
+        "placeholder": "*******"
+      } ,
+      "country": {
+        "label": "Pays" ,
+        "defaultOption": "Sélectionner un pays"
+      } ,
+      "phone": {
+        "label": "Téléphone" ,
+        "placeholder": "Téléphone",
+        "requiredMessage": "Le numero est requis!"
+      } ,
+      "paymentMethodTitle": "Choisissez le mode de paiement" ,
+      "paymentOptions": {
+        "noPayment": "Aucun paiement" ,
+        "paypal": "PayPal"
+      } ,
+      "termsAndConditions": {
+        "text": "J’accepte les présentes",
+        "link":  "conditions générales"
+      } ,
+      "submitButtonText": "Envoyer" ,
+      "loginPrompt": {
+        "text": "Vous avez déjà un compte?" ,
+        "linkText": "Connectez-vous" ,
+        "link": "/login"
+      },
+      "confirmationModalHeading": "Vérifiez votre mail" ,
+      "confirmationModalBody": "Merci pour votre inscription !\n        Pour confirmer la création de votre compte, veuillez vérifier votre courrier électronique."
+    }
+  },
+
+
+  "satisfiedWithFinanzenNetZero": "Satisfait de finanzen.net zéro ?",
+  "description": "Avez-vous des amis ou des connaissances qui paient encore des frais d'ordre ou qui ne négocient pas du tout de titres ? Recommandez un dépôt sur Finanz.net zéro et nous vous récompenserons avec 50 euros et une action gratuite pour chaque client que vous parrainez. La personne référée reçoit une action gratuite si elle utilise activement son portefeuille.",
+  "whatToDo": "Que devez-vous faire pour cela ?",
+  "stepOneTitle": "Lien d'invitation",
+  "stepOneDescription": "Personnalisé à envoyer à de nombreux amis et connaissances",
+  "stepTwoTitle": "Inscrivez-vous via ce lien",
+  "stepTwoDescription": "Votre client référé accepte la publicité et s'inscrit via votre lien sur notre site Web",
+  "stepThreeTitle": "Recevez votre bonus",
+  "stepThreeDescription": "Nous vérifions chaque mois si les conditions sont remplies et transférons le montant du bonus correspondant à vous et au client référé",
+  "getInvitationLinkButton": "OBTENIR UN LIEN D'INVITATION",
+  "readTermsAndConditions": "Lisez les termes et conditions exacts",
+  "here": "ICI",
+
+
+
+  "generalSettings": "Paramètres généraux",
+  "changePassword": "Changer le mot de passe",
+  "changeEmail": "Changer l'email",
+  "firstName": "Prénom",
+  "firstNamePlaceholder": "Jane",
+  "lastName": "Nom",
+  "lastNamePlaceholder": "Doe",
+  "email": "Email",
+  "emailPlaceholder": "john@gmail.com",
+  "country": "Pays",
+  "countryOptions": {
+    "newMexico": "Nouveau Mexique",
+    "missouri": "Missouri",
+    "texas": "Texas"
+  },
+  "phone": "Téléphone",
+  "phonePlaceholder": "+237",
+  "submitButton": "Soumettre",
+
+
+
+  "orderTitle": "Commande",
+  "dateLabel": "Date :",
+  "referenceLabel": "Réf :",
+  "print": "Imprimer",
+  "licenceNameLabel": "Nom de la licence :",
+  "subtotal": "Sous-total",
+  "shipping": "Expédition",
+  "total": "TOTAL",
+  "paymentTitle": "Paiement",
+  "paymentMethod": "Méthode de paiement",
+  "paymentTotalLabel": "Total :",
+  "paidStatus": "PAYÉ",
+  "billingAddress": "Adresse de facturation",
+  "phoneLabel": "Téléphone",
+  "shippingInfoTitle": "Informations sur l'expédition",
+  "shippingAddressTitle": "Adresse",
+  "addressDetails": "Détails de l'adresse",
+  "phoneAbbreviation": "Tél",
+
+
+  "navigation": {
+    "home": "Accueil",
+    "chart": "Graphique",
+    "watchlist": "Watchlist",
+    "recommend": "Recommander",
+    "help": "Aide",
+    "academy": "Académie",
+    "contact": "Contact",
+    "upcomingCommunity": "Communauté à venir"
+  },
+  "search": {
+    "label": "Recherche",
+    "placeholder": "Chercher",
+    "noResultsFound": "Aucun résultat trouvé."
+  },
+  "profileDropdown": {
+    "profile": "Profil",
+    "billing": "Facturation",
+    "logout": "Déconnexion",
+    "terms and conditions": "Terms and Conditions"
+
+  },
+
+  
+    "welcomeTitle": "Test de la liste de surveillance",
+    "welcomeMessage": "Bienvenue au Compas du marché boursier IA ! Consultez le tutoriel d'introduction.",
+    "doNotShowAgain": "ne plus afficher.",
+    "watchlistTitle": "Liste de surveillance",
+    "topTradesPurchaseTitle": "Achats principaux",
+    "symbol": "Symbole",
+    "currentPrice": "Prix actuel",
+    "score": "Score",
+    "company": {
+        "apple": "Apple",
+        "cisco": "Cisco"
+    },
+    "stockSymbol": {
+        "apple": "AAPL",
+        "cisco": "CSCO"
+    },
+    "stockPrice": {
+        "apple": "155,18 $",
+        "ciscoPercentage": "45,14 %"
+    },
+    "close": "Fermer",
+    "alertCloseAriaLabel": "Fermer",
+    "dismiss": "Rejeter"
+
+
+,
+"courseInformationTitle": "Informations sur le cours",
+  "courseTime": "Horaire du cours",
+  "time": "09:27:17",
+  "companyProfileTitle": "Profil de l'entreprise",
+  "companyDescription": "{{stockList.designation}} ({{stockList.symbol}}) est un leader technologique mondial dans le secteur {{stockList.sector}}. Avec environ {{stockList.employees}} employés, {{stockList.designation}} est reconnu pour son innovation et son influence dans l'industrie technologique. À la date des derniers résultats du {{stockList.earnings_date}}, {{stockList.designation}} continue de montrer de solides performances financières, avec un bénéfice par action (EPS) de ${{stockList.eps}} et une capitalisation boursière d'environ ${{stockList.market_cap | number: '1.0-2'}} milliards. Le dividende futur de la société est de ${{stockList.forwardDividend}}, avec une date de détachement du dividende fixée au {{stockList.exDividendDate}}. Avec un ratio prix/bénéfice (P/E) de {{stockList.pe_ratio}} et une valeur bêta de {{stockList.beta}}, {{stockList.designation}} reste un acteur important sur le marché technologique, avec un prix cible à un an de ${{stockList['1yTargetEast'] | number: '1.0-2'}}.",
+  "basicDataTitle": "Données de base",
+  "wkn": "WKN"
+
+, "termsandconditions": "Conditions générales",
+"accetpterms": "Accepter les conditions",
+"fermer": "Fermer",
+"acceptaandclose": "Accepter et fermer",
+"settings": "paramètre"
+
+,"currentRecommendation": "Recommandation actuelle",
+  "buy": "Acheter"
+
+
+}
